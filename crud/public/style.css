@@ -1,0 +1,23 @@
+.container_fluid{
+  width: 80%;
+  padding: 100px 150px;
+}
+.form input{
+  border:1px solid black;
+  padding: 0px 5px;
+  margin: 0px 5px;
+}
+.my_data {
+  padding: 20px 20px;
+  border: 2px solid grey;
+  margin: 70px 0px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.my_data button{
+    background: #bdbdbd;
+    padding: 3px;
+    border-radius: 3px;
+}
